@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Hero from "./components/hero";
 import Work from "./components/work";
 import Whatido from "./components/whatido";

@@ -35,7 +35,7 @@ const Whatido = () => {
     //     </div>
     // </div>
 
-    <div className={` ${heebo.className} w-full h-auto flex flex-col lg:flex-row px-4 lg:px-[160px] py-8 lg:py-[150px] justify-center items-center gap-y-8 lg:gap-y-0 lg:gap-x-6`}>
+    <div className={`${heebo.className} w-full h-auto flex flex-col lg:flex-row px-4 lg:px-[160px] py-8 lg:py-[150px] justify-center items-center gap-y-8 lg:gap-y-0 lg:gap-x-6`}>
       <div className="w-full lg:w-[529px] h-auto flex flex-col justify-center items-center lg:items-start">
         <div className="text-center lg:text-left">
           <h1 className="w-full lg:w-[254px] h-auto font-bold text-3xl md:text-3xl lg:text-4xl">
@@ -44,7 +44,7 @@ const Whatido = () => {
           <p className="w-full lg:w-[529px] h-auto mt-4">
             I create innovative digital solutions by blending front-end design,
             backend logic, and advanced technologies like Generative AI and
-            TypeScript. Let's transform ideas into impactful projects.
+            TypeScript. Let&apos;s transform ideas into impactful projects.
           </p>
         </div>
         <div className="mt-6">

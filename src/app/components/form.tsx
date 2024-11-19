@@ -9,9 +9,9 @@ const ContactForm: React.FC = () => {
         <div className="flex flex-col md:flex-row items-start md:items-center space-y-8 md:space-y-0 md:space-x-12">
           {/* Left Section */}
           <div className="w-full md:w-1/2">
-            <h2 className="text-3xl font-bold mb-4">Let's work together</h2>
+            <h2 className="text-3xl font-bold mb-4">Let&apos;s work together</h2>
             <p className="text-gray-700 mb-6">
-            I'm always excited to collaborate on meaningful projects. Whether you have a unique idea, need assistance with development, or just want to connect, feel free to reach out. Let's create something amazing together!
+            I&apos;m always excited to collaborate on meaningful projects. Whether you have a unique idea, need assistance with development, or just want to connect, feel free to reach out. Let&apos;s create something amazing together!
             </p>
             <div className="flex space-x-4">
               {/* Social Media Icons */}

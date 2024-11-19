@@ -6,7 +6,7 @@ import Link from 'next/link'
 const inter = Inter({subsets: ['latin']})
 
 const Navbar = () => {
-let navItems = [
+const navItems = [
     {
         name:"Works",
         link:"3",
